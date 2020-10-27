@@ -1,0 +1,6 @@
+Name: Air Quality Monitor
+Drive: https://docs.google.com/document/d/198C0RM_OcwObEoPmqVYNNOmh1KMX9YG8Lmp6c0LmsUk/edit
+
+Version: 0.0
+Date: 26 Oct 2020
+History: Creating Git repo, Arduino file, including datasheets and schematics
